@@ -1,0 +1,1 @@
+# MS-SQL-to-SQLite-Adapter
